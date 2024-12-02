@@ -103,3 +103,17 @@ One of the main challenges during development was adjusting the speed of the mot
 
 ### Conclusion:
 The Line Following Robot works effectively with the implemented PID control, allowing it to autonomously follow a black line on a white surface. The tuning of the PID constants played a crucial role in improving performance, reducing oscillation, and ensuring smooth turns. Future improvements could include implementing an adaptive PID system that adjusts the parameters dynamically based on the environment or track complexity.
+## 🏆 Certificates and Achievements 🏆
+
+### 1. **Runner-Up Position in Line Follower Competition**
+This certificate recognizes my achievement as the **Runner-Up** in the **Line Follower Competition**. It was a highly competitive event where participants demonstrated their skills in designing and programming robots capable of following a path autonomously.
+
+![Line Follower Runner-Up Certificate](Line_Follower_Competion_Certicate.jpg)
+
+### 2. **Certificate of Participation in Technoxian AICRA Organized Robotics Event**
+This certificate was awarded for my participation in the **Technoxian AICRA Organized Robotics Event**. I reached the **Final Round** and had the opportunity to showcase my skills alongside some of the brightest minds in robotics. 
+
+![Technoxian Certificate](Technoxian_Certicate.jpg)
+
+
+
